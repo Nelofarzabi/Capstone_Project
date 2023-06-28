@@ -29,9 +29,8 @@ const speakerCardsItems = [
     speaker_name: 'Ing . Nelofar Zabi',
     speaker_education:
       'B.Sc degree in computer Science, at Kabul University AFG',
-    speaker_bio: `Software Engineer at apple company ,  with more than 7 years experience
-                  developing and maintaining Software applications, and a full time student at
-                  Microverse.`,
+    speaker_bio: `Software Engineer at apple company , with more than 7 years experience in
+                  developing Software .`,
   },
   {
     speaker_image: 'images/img/zuhra0.png',
@@ -39,8 +38,7 @@ const speakerCardsItems = [
     speaker_education:
       'B.Sc degree in computer Science, at Kabul University AFG',
     speaker_bio: `Chairperson-Board of Directors at STEAD Society, National Outreach Coordinator at The
-                  International Astronomical Union and NPoC at Space Generation Advisory Council
-                  African Region`,
+                  International .`,
   },
   {
     speaker_image: 'images/img/king0.png',
@@ -48,7 +46,7 @@ const speakerCardsItems = [
     speaker_education:
       'B.Sc degree in computer Science, at Banglore University AFG',
     speaker_bio: `Founder and Apple Company  | Yagnkar Company  | Women & Girls, Empowerment
-                  | Woman right activist | Social Activator | Innovator`,
+                  | Woman right.`,
   },
   {
     speaker_image: 'images/img/aisha.png',
@@ -56,8 +54,7 @@ const speakerCardsItems = [
     speaker_education:
       'B.Sc Honoursstudent in computer Science, at Kateb University USA',
     speaker_bio: `An experienced Software designer and developer. Managed native and hybrid
-                  mobile applications in fields such as educational software, medical and entertainment.
-                  Head of VEX Robotic at Africa Girls Empathy`,
+                  mobile applications .`,
   },
   {
     speaker_image: 'images/img/zubair1.png',

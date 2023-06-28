@@ -577,7 +577,6 @@ nav {
   .nav_desktop {
     display: flex;
     width: 100%;
-    position: fixed;
   }
 
   .navbar_container {
@@ -589,6 +588,20 @@ nav {
 
   .top_header_logo {
     display: flex;
+  }
+
+  .top_head {
+    display: block;
+  }
+
+  .top_head_ul {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    gap: 20px;
+    justify-content: end;
+    align-items: center;
+    padding-top: 5px;
   }
 
   .desktop-nav {
@@ -605,8 +618,12 @@ nav {
     width: 60%;
   }
 
+  .header_part_main_div {
+    padding-top: 12%;
+  }
+
   .intro {
-    font-size: 70px;
+    font-size: 80px;
     line-height: 65px;
     font-weight: 900;
   }
