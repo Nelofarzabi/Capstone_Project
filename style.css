@@ -191,6 +191,7 @@ nav {
   display: flex;
   flex-direction: column;
   width: 70%;
+  padding-top: -10%;
 }
 
 .header_part_text_div {
@@ -202,7 +203,7 @@ nav {
   font-family: var(--secondary-font);
   font-weight: 800;
   text-transform: uppercase;
-  font-size: 25px;
+  font-size: 27px;
   color: #ec5242;
   padding-bottom: 30px;
   line-height: 1.5rem;
@@ -217,8 +218,8 @@ nav {
   color: #ec5242;
   font-family: 'Lato', sans-serif;
   font-weight: 500;
-  font-size: 25px;
-  margin-bottom: 20px;
+  font-size: 30px;
+  margin-bottom: 1px;
 }
 
 .about_header {
@@ -306,8 +307,8 @@ nav {
   align-items: center;
   padding: 15px 10px;
   width: 90%;
-  background-color: rgba(168, 168, 168, 0.4);
-  gap: 20px;
+  background-color: rgba(168, 168, 168, 0.2);
+  gap: 30px;
 }
 
 .main_card:hover {
@@ -517,11 +518,12 @@ nav {
 
 .partners_logos {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
   align-items: center;
   width: 90%;
-  gap: 15px;
+  gap: 8px;
   height: 150px;
 }
 
@@ -619,13 +621,13 @@ nav {
   }
 
   .header_part_main_div {
-    padding-top: 12%;
+    padding-top: 1%;
   }
 
   .intro {
-    font-size: 80px;
-    line-height: 65px;
-    font-weight: 900;
+    font-size: 45px;
+    line-height: 43px;
+    font-weight: 1000;
   }
 
   .main_cards_div {
@@ -645,5 +647,6 @@ nav {
 
   .partners_logos {
     flex-direction: row;
+    justify-content: space-between;
   }
 }
