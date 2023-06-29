@@ -43,7 +43,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://nelofarzabi.github.io/Capstone_Project/)
+- [Live Demo Link](https://golden-dasik-2d2401.netlify.app/)
 
 ## 🚀 Description Video<a name="video-demo"></a>
 
