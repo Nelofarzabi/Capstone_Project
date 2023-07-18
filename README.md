@@ -47,7 +47,7 @@
 
 ## 🚀 Description Video<a name="video-demo"></a>
 
-- [Project Description Video Link](https://www.loom.com/share/babe3f9e41b1451698e0665fe1cd343f?sid=fc9e690a-81df-4be2-b157-2cfe387ca42a)
+- [Project Description Video Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
