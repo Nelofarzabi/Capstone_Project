@@ -106,7 +106,7 @@
 }
 
 .about_logo {
-  width: 205px;
+  width: 150px;
   margin-top: 30px;
 }
 
@@ -212,4 +212,8 @@
   .past_conf_images {
     flex-direction: row;
   }
+
+.about_logo {
+  width: 230px;
+}
 }
