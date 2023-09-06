@@ -45,10 +45,6 @@
 
 - [Live Demo Link](https://nelofarzabi.github.io/Capstone_Project/)
 
-## 🚀 Description Video<a name="video-demo"></a>
-
-- [Project Description Video Link]()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
